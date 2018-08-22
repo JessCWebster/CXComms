@@ -1465,7 +1465,7 @@ body {
   background-color: #ffffff;
 }
 .cid-r1t0PM3Sbp {
-  background-image: url("../../../assets/images/mbr-960x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-r1t0PM3Sbp H1 {
   color: #232323;
@@ -1473,6 +1473,7 @@ body {
 .cid-r1t0PM3Sbp .mbr-text,
 .cid-r1t0PM3Sbp .mbr-section-btn {
   color: #232323;
+  text-align: left;
 }
 .cid-r1t0QwQoiz {
   background-color: #ffffff;
